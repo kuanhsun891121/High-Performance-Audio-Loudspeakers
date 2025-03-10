@@ -7,7 +7,7 @@ The schematic diagram below illustrates the signal path and amplification stages
 ## Input Stage (AUX-IN / MIC-IN):
 
 The circuit supports both AUX input (R14, R15, R11, C11) and MIC input (R1, C9, Q1).
-The microphone signal passes through a pre-amplification stage using a transistor amplifier, providing sufficient gain before feeding into the main amplifier.
+The microphone signal passes through a pre-amplification stage using a transistor amplifier (CE Amplifier), providing sufficient gain before feeding into the main amplifier.
 
 ## Gain Control Section
 
